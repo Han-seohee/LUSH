@@ -70,7 +70,7 @@ button{
     font-weight: lighter;
     cursor: pointer;
 }
-button a:hover{
+button:hover{
     color: gray;
 }
 
