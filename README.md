@@ -1,5 +1,5 @@
 # LUSH KOREA
-코스메틱 브랜드 'LUSH KOREA'의 사이틀를 리 디자인한 웹페이지   
+코스메틱 브랜드 'LUSH KOREA'의 사이트를 리 디자인한 웹페이지   
 :information_desk_person: http://hsh1.dothome.co.kr/
 
 ## 1. Main Page
